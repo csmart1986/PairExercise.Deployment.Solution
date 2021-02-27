@@ -25,4 +25,4 @@ deploy: # see README for details on these keys
   app: foxydingo
   # the secure key indicates an encrypted value; see README
   api_key:
-    secure: 235ce12f-182e-4aae-a875-cabfb5ad294f
+    secure: C30P+BPgqizbTKjbKEat9G1T/fNXOLIHmtBMrrspQV25kum6aLszrPtaAxHOapEWYQo2nFSq/3+fSH40LWdoXH79ZuSaEVMdJ8j7sHj5w68092chEIHzLE+en5SKZoIxqfn2GZftPjPhnFYiNNm3mAxHf2OCpOnQI4+ySmecTC02s1IsBBc2Iq0oUjWfgtb/dSkJLrn7pLGRz+mmfoywpolxYqYcCPFBA1JtstDvvOuK7lHiJAJ2pvF/5eIA/lOHNgj1lDO8QBrZBmfiw/GO3dcIqqwO1RSf1XBy9N3HLI5afMFYCBGD8/R7mpTaCTlB9USem3LzHJOCUefSr6YpXwhi4QcGAOpq02dIahS8UbqVMPtYvhS4/xRtrF5ziiUpOT7quUwjyGkz5nkfK9EeYZZccnGl8sFfZxzV5SUdNIU/Xci7+2eO2Kied+IBKBfvZhD66h06tGV/4qzqo+vtUpCv9K1b1IHOdJhVRkqWbZXTzuE98USOLS/EPg11C0gKd8sf0KZrqn+DD1HLY7J0D44iDuZi9qQVv2k8vvKcz55DimYKzkcsn3qCkQ0NPyjG5jeOa+EpecRWB9AlcgR0Jd1PnacnjJ61wRZxTros3jg9zz6gi7BAk/ikC3dEiBAEUyNW7KqFgNirdLv1tjB53bNCzPr/E+mXrEf4hUFayWc=
